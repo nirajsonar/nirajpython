@@ -23,5 +23,9 @@ def family(c3,c2,c1):
      print(c2)
 family(c3='sagar',c2='niraj',c1='nikhil')
 
+def fam(c3='sagar',c2='niraj',c1='nikhil'):
+    print(c2)
+fam()
+
 
 
